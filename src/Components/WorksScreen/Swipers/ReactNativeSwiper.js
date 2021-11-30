@@ -5,6 +5,15 @@ const ReactNativeSwiper = ({ gitClone, setGitClone, copyLink }) => {
 
     const reactNativeData = [
         {
+            name: "Currency App",
+            description: "currency exchange calculator",
+            used: "Expo, react-native, firebase, (react, firebase for admin panel)",
+            github: "https://github.com/DavSanosyan0145/currency_app",
+            webPage: "",
+            video: "",
+            gitClone: "https://github.com/DavSanosyan0145/currency_app.git"
+        },
+        {
             name: "BadBook",
             description: "simple social app",
             used: "Expo, react-native, node, express, socket, mongoDB(mongoose), firebase",
